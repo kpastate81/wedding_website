@@ -762,7 +762,10 @@ footer {
 -----------------------------------------*/
 footer {
   background-attachment: fixed;
+  text-align: center;
+
 }
+
 
 
 
