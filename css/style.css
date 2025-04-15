@@ -367,7 +367,7 @@ footer {
 -----------------------------------------*/
 #program {
 	padding-top: 20rem;
-    padding-bottom: 20rem;}
+    padding-bottom: 40rem;}
     
 #program h4 {
     color: #808080
@@ -442,7 +442,7 @@ footer {
     display: block;
     width: 100%;
     padding-top: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     margin-bottom: 22px;
 }
 
@@ -512,6 +512,7 @@ footer {
 }
 .tab-content {
   padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 /*---------------------------------------
@@ -519,7 +520,11 @@ footer {
 -----------------------------------------*/
 #schedule{
 	padding-top: 10rem;
-    padding-bottom: 40rem;
+  padding-bottom: 60rem;
+}
+
+#schedule .tab-content {
+  padding-bottom: 42px;
 }
 
 
@@ -574,7 +579,7 @@ footer {
 -----------------------------------------*/
 #detail{
 	padding-top: 10rem;
-    padding-bottom: 30rem;
+    padding-bottom: 60rem;
 }
 #detail h5 {
 	text-align: center;
@@ -588,7 +593,7 @@ footer {
 #contact {
   background: #f9f9f9;
   padding-top: 8rem;
-  padding-bottom: 20rem;
+  padding-bottom: 60rem;
 }
 
 #contact .panel-group {
@@ -656,7 +661,7 @@ footer {
     background-size: cover;
     background-position: center center;
     padding-top: 10rem;
-    padding-bottom: 20rem;}
+    padding-bottom: 60rem;}
 
 
 #venue h2{
@@ -708,7 +713,7 @@ footer {
    Transporation and Location section             
 -----------------------------------------*/
 #transportation {padding-top: 10rem;
-    padding-bottom: 20rem;}
+    padding-bottom: 60rem;}
 
 #transportation img {
   margin-top: 20px;
@@ -718,7 +723,7 @@ footer {
    Accommodations section             
 -----------------------------------------*/
 #accommodations {padding-top: 10rem;
-    padding-bottom: 20rem;}
+    padding-bottom: 60rem;}
 
 #accommodations img {
   margin-top: 20px;
