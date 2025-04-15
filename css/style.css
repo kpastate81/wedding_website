@@ -520,11 +520,11 @@ footer {
 -----------------------------------------*/
 #schedule{
 	padding-top: 10rem;
-  padding-bottom: 60rem;
+  padding-bottom: 80rem;
 }
 
 #schedule .tab-content {
-  padding-bottom: 42px;
+  padding-bottom: 52px;
 }
 
 
@@ -661,7 +661,7 @@ footer {
     background-size: cover;
     background-position: center center;
     padding-top: 10rem;
-    padding-bottom: 60rem;}
+    padding-bottom: 80rem;}
 
 
 #venue h2{
